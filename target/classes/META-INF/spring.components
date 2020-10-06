@@ -1,0 +1,4 @@
+com.madinabonu.springdemo.Admin=org.springframework.stereotype.Component
+com.madinabonu.springdemo.AloqaBank=org.springframework.stereotype.Component
+com.madinabonu.springdemo.Manager=org.springframework.stereotype.Component
+com.madinabonu.springdemo.User=org.springframework.stereotype.Component
